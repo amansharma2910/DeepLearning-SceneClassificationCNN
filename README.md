@@ -2,6 +2,8 @@
  
 In this project, originally hosted on Kaggle, I have worked on a Deep Learning model based on the powerful CNN algorithm, capable of detecting the scene in an input image. 
 
+**[Link to Kaggle Notebook](https://www.kaggle.com/bravehart101/sceneclassification-cnn-pytorch)**
+
 <h2>Understanding the Problem Statement</h2>
 
 The dataset that I have used for this project is the Intel Image Classification dataset. 
